@@ -1,0 +1,1760 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 17,
+        "per_page": 50,
+        "items": 837,
+        "urls": {
+            "last": "https://api.discogs.com/database/search?release_title=nevermind&token=KtehgpFdeuBMDRZZvmFDSZWtJCMpAthaUdUKmLmV&page=17&per_page=50",
+            "next": "https://api.discogs.com/database/search?release_title=nevermind&token=KtehgpFdeuBMDRZZvmFDSZWtJCMpAthaUdUKmLmV&page=2&per_page=50"
+        }
+    },
+    "results": [
+        {
+            "id": 2246526,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/2246526-Nevermind-6",
+            "title": "Nevermind (6)",
+            "thumb": "https://img.discogs.com/yU_lbO_Gae2UMIM2llK7_DLNhN4=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-2246526-1451078779-2857.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/ZXCyA2nZVQyYmsZi23PIZ0to0wg=/600x450/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-2246526-1451078779-2857.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/artists/2246526"
+        },
+        {
+            "country": "Germany",
+            "year": "2009",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "45 RPM",
+                "33 ⅓ RPM"
+            ],
+            "label": [
+                "Partyservice",
+                "Schnittstelle",
+                "Schallplattenfabrik Pallas GmbH"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Techno",
+                "Minimal"
+            ],
+            "id": 231915,
+            "barcode": [
+                "4 014235 019696",
+                "PARTY 02 A KIKO TPH at schnittstelle -18707-",
+                "PARTY 02 B KIKO TPH at schnittstelle -18707-"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 231915,
+            "master_url": "https://api.discogs.com/masters/231915",
+            "uri": "/Kiko-Nevermind/master/231915",
+            "catno": "party 02",
+            "title": "Kiko - Nevermind",
+            "thumb": "https://img.discogs.com/EwiyUKI8prmTIH2FZevCF8yi6gY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1920307-1341154418-8813.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/7B22qj2BeD-orh-R56JCGSaSLD4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1920307-1341154418-8813.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/231915",
+            "community": {
+                "want": 11,
+                "have": 57
+            }
+        },
+        {
+            "country": "US",
+            "year": "2002",
+            "format": [
+                "Vinyl",
+                "12\""
+            ],
+            "label": [
+                "Groove On"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "House",
+                "Latin"
+            ],
+            "id": 107867,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 107867,
+            "master_url": "https://api.discogs.com/masters/107867",
+            "uri": "/Mendo-Nevermind/master/107867",
+            "catno": "GO-07",
+            "title": "Mendo - Nevermind",
+            "thumb": "https://img.discogs.com/QTlCypxXfi-pegcqjrfXTQJemj8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-70193-1363796429-6138.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/6i0StoV6BrhN0ew9GgV0JMpNyuw=/fit-in/234x229/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-70193-1363796429-6138.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/107867",
+            "community": {
+                "want": 20,
+                "have": 44
+            }
+        },
+        {
+            "id": 3539,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/3539-Nevermind",
+            "title": "Nevermind",
+            "thumb": "https://img.discogs.com/doIXPuu5WGhNapwnbPNGnLz6lIc=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-3539-1234045185.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/8Mj1cz4YBLHtg6PFRLF30wJWSFE=/600x400/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-3539-1234045185.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/artists/3539"
+        },
+        {
+            "id": 1737231,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/1737231-Nevermind-3",
+            "title": "Nevermind (3)",
+            "thumb": "https://img.discogs.com/MJXjBprB3tzByQ0PBNkEUaXoFSE=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-1737231-1465065397-3854.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/ufsakGd52ocUm2K0euby6vItiyQ=/434x391/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-1737231-1465065397-3854.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/artists/1737231"
+        },
+        {
+            "country": "US",
+            "year": "1991",
+            "format": [
+                "CD",
+                "Album",
+                "Mispress"
+            ],
+            "label": [
+                "DGC",
+                "Sub Pop",
+                "Uni Distribution Corp.",
+                "Uni Distribution Corp.",
+                "The David Geffen Company",
+                "The David Geffen Company",
+                "Digital Audio Disc Corp.",
+                "Sound City Studios",
+                "Scream Studios",
+                "Masterdisk",
+                "DADC"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 13814,
+            "barcode": [
+                "7 2064-24425-2 4",
+                "720642442524",
+                "AAD",
+                "DIDX 011927",
+                "DIDX-011927 3",
+                "[DADC 'D' logo]",
+                "DIDX-011927 6",
+                "Made In USA - Digital Audio Disc Corp.",
+                "DIDX-011927 5",
+                "[DADC 'D' logo]",
+                "DIDX-011927 5",
+                "none",
+                "DIDX-011927 7",
+                "none"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 13814,
+            "master_url": "https://api.discogs.com/masters/13814",
+            "uri": "/Nirvana-Nevermind/master/13814",
+            "catno": "DGCD-24425",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/xuyvsRVdjY3aiJnHF8BkejxbcTg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-367084-1263095553.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/UoDAnoi3Cbp_JvOrz4CRgZBBSfg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367084-1263095553.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/13814",
+            "community": {
+                "want": 221302,
+                "have": 131613
+            }
+        },
+        {
+            "id": 6501404,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/6501404-NeverMind-9",
+            "title": "NeverMind (9)",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/6501404"
+        },
+        {
+            "country": "France",
+            "year": "2005",
+            "format": [
+                "DVD",
+                "PAL"
+            ],
+            "label": [
+                "Eagle Vision",
+                "Classic Albums"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock",
+                "Non-Music"
+            ],
+            "style": [
+                "Interview",
+                "Grunge"
+            ],
+            "id": 204840,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 204840,
+            "master_url": "https://api.discogs.com/masters/204840",
+            "uri": "/Nirvana-Nevermind/master/204840",
+            "catno": "EV 426200",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/CdhuExOJ8YMbKdWtGTI53imxL_w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1852962-1417605212-2999.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/UIjBvohjQmLgEbqO4I5c56R9Jsc=/fit-in/424x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852962-1417605212-2999.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/204840",
+            "community": {
+                "want": 225,
+                "have": 732
+            }
+        },
+        {
+            "id": 5392080,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/5392080-NeverMind-7",
+            "title": "NeverMind (7)",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/5392080"
+        },
+        {
+            "id": 519305,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/519305-Nevermind-2",
+            "title": "Nevermind (2)",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/519305"
+        },
+        {
+            "id": 1929977,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/1929977-Nevermind-4",
+            "title": "Nevermind (4)",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/1929977"
+        },
+        {
+            "id": 6902238,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/6902238-Nevermind-10",
+            "title": "Nevermind (10)",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/6902238"
+        },
+        {
+            "id": 1571882,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/label/1571882-Nevermind-Records-2",
+            "title": "Nevermind Records (2)",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/labels/1571882"
+        },
+        {
+            "id": 2198267,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/2198267-Nevermind-5",
+            "title": "Nevermind (5)",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/2198267"
+        },
+        {
+            "id": 5467820,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/5467820-Nevermind-8",
+            "title": "Nevermind (8)",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/5467820"
+        },
+        {
+            "country": "Europe",
+            "genre": [
+                "Rock"
+            ],
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Unofficial Release"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 464021,
+            "label": [
+                "Geffen Records Company; Sub-Pop"
+            ],
+            "type": "master",
+            "barcode": [
+                "0-720642-442517",
+                "LC-07266",
+                "424 425-1   "
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 464021,
+            "master_url": "https://api.discogs.com/masters/464021",
+            "uri": "/Nirvana-Nevermind/master/464021",
+            "catno": "424 425-1",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/NgUs6bytfUevh5Kkhllt48AS-6w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3686829-1340531254-3543.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/yHidVUUKaW6hnmCxhmUDY1hwnHs=/fit-in/320x317/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3686829-1340531254-3543.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/464021",
+            "community": {
+                "want": 0,
+                "have": 0
+            }
+        },
+        {
+            "country": "Italy",
+            "year": "1995",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "33 ⅓ RPM"
+            ],
+            "label": [
+                "Italian Style Production"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Italodance"
+            ],
+            "id": 129605,
+            "barcode": [
+                "S.I.A.E."
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 129605,
+            "master_url": "https://api.discogs.com/masters/129605",
+            "uri": "/Phase-Generator-Nevermind/master/129605",
+            "catno": "ISP 1278",
+            "title": "Phase Generator - Nevermind",
+            "thumb": "https://img.discogs.com/R0AcwPooOkuUIu8Q2-szkh4t7jM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-831152-1380194760-9450.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/_CmPSBIwKwQF3mI0AQPTSAy7yy8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831152-1380194760-9450.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/129605",
+            "community": {
+                "want": 149,
+                "have": 250
+            }
+        },
+        {
+            "country": "US",
+            "year": "2005",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Reptilian Records"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Noise",
+                "Punk"
+            ],
+            "id": 318424,
+            "barcode": [
+                "8 32915 00952 2"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 318424,
+            "master_url": "https://api.discogs.com/masters/318424",
+            "uri": "/Clockcleaner-Nevermind/master/318424",
+            "catno": "REP095",
+            "title": "Clockcleaner - Nevermind",
+            "thumb": "https://img.discogs.com/T6q9rLUPQU0Fxas5Ujyp30kFyTw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2761543-1482716688-9433.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/ft0X9PHn4phvWrcyNlhoRhKq8y4=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2761543-1482716688-9433.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/318424",
+            "community": {
+                "want": 122,
+                "have": 232
+            }
+        },
+        {
+            "country": "Unknown",
+            "year": "2019",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Limited Edition",
+                "Stereo"
+            ],
+            "label": [
+                "Bad Timing Records",
+                "Devinyl"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [],
+            "id": 1658563,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1658563,
+            "master_url": "https://api.discogs.com/masters/1658563",
+            "uri": "/Kevin-Devine-The-Goddamn-Band-Nevermind/master/1658563",
+            "catno": "BTR-060",
+            "title": "Kevin Devine & The Goddamn Band - Nevermind",
+            "thumb": "https://img.discogs.com/88Jj8ovcygJB7SI5DaGLZYJ2m9c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14478381-1575335158-7834.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/0pdKcMUP__sLAtH-Gxqs9XX948Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14478381-1575335158-7834.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1658563",
+            "community": {
+                "want": 24,
+                "have": 114
+            }
+        },
+        {
+            "id": 522127,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/label/522127-Nevermind",
+            "title": "Nevermind",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/labels/522127"
+        },
+        {
+            "id": 525408,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/label/525408-Nevermind-2",
+            "title": "Nevermind (2)",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/labels/525408"
+        },
+        {
+            "id": 4607953,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/4607953-Jamie-Nevermind",
+            "title": "Jamie Nevermind",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/4607953"
+        },
+        {
+            "id": 5199601,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/5199601-A-Nevermind",
+            "title": "A. Nevermind",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/5199601"
+        },
+        {
+            "country": "US",
+            "year": "2013",
+            "format": [
+                "Cassette",
+                "EP"
+            ],
+            "label": [
+                "Ritual Tapes",
+                "Ritual Tapes",
+                "Shenley Studios",
+                "Shenley Studios",
+                "Shenley Studios"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge",
+                "Post-Hardcore",
+                "Shoegaze"
+            ],
+            "id": 1262925,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1262925,
+            "master_url": "https://api.discogs.com/masters/1262925",
+            "uri": "/Nevermind-Me-Nevermind-Me/master/1262925",
+            "catno": "RTL 004",
+            "title": "Nevermind Me - Nevermind Me",
+            "thumb": "https://img.discogs.com/rggxHz3S5ab4qhHpYB3V9BXc3I0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8864064-1512363038-3255.bmp.jpg",
+            "cover_image": "https://img.discogs.com/RugTnhe9_WKW8GSsU4BgkrF_N9I=/fit-in/600x962/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8864064-1512363038-3255.bmp.jpg",
+            "resource_url": "https://api.discogs.com/masters/1262925",
+            "community": {
+                "want": 4,
+                "have": 9
+            }
+        },
+        {
+            "country": "US",
+            "year": "2017",
+            "format": [
+                "File",
+                "FLAC",
+                "Single"
+            ],
+            "label": [
+                "WMI Italy"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Indie Pop",
+                "Contemporary R&B",
+                "Deep House"
+            ],
+            "id": 1342129,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1342129,
+            "master_url": "https://api.discogs.com/masters/1342129",
+            "uri": "/Dennis-Lloyd-Nevermind-Alright/master/1342129",
+            "catno": "none",
+            "title": "Dennis Lloyd (2) - Nevermind (Alright)",
+            "thumb": "https://img.discogs.com/I9d318-dJU9l_ylgj97v_JdAtgI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12539396-1537233008-9801.png.jpg",
+            "cover_image": "https://img.discogs.com/HByv76KhAGsGj4znwGJz4SQcezA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12539396-1537233008-9801.png.jpg",
+            "resource_url": "https://api.discogs.com/masters/1342129",
+            "community": {
+                "want": 33,
+                "have": 16
+            }
+        },
+        {
+            "country": "Germany, Austria, & Switzerland",
+            "year": "2008",
+            "format": [
+                "CD",
+                "Single"
+            ],
+            "label": [
+                "Columbia",
+                "Sony BMG Music Entertainment (Norway) AS",
+                "Sony BMG Music Entertainment (Norway) AS",
+                "Sony BMG Music Entertainment",
+                "Sony DADC"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock",
+                "Pop"
+            ],
+            "style": [
+                "Pop Rock"
+            ],
+            "id": 682526,
+            "barcode": [
+                "886972740126",
+                "A0100922792-0101 15",
+                "IFPI L555",
+                "IFPI 9440",
+                "BIEM/GEMA",
+                "N©B/BIEM/GEMA",
+                "LC 00162"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 682526,
+            "master_url": "https://api.discogs.com/masters/682526",
+            "uri": "/Maria-Mena-Nevermind-Me/master/682526",
+            "catno": "88697274012",
+            "title": "Maria Mena - Nevermind Me",
+            "thumb": "https://img.discogs.com/wOB_BDkaOUq0j05WT8I-jGykEB4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4777592-1375202847-4984.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/QxF4FNJ-09y39KNFpFrfrBmXqhA=/fit-in/500x425/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4777592-1375202847-4984.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/682526",
+            "community": {
+                "want": 8,
+                "have": 6
+            }
+        },
+        {
+            "country": "USA, Canada & Europe",
+            "year": "2015",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Vinyl",
+                "7\"",
+                "33 ⅓ RPM",
+                "All Media",
+                "Compilation"
+            ],
+            "label": [
+                "Robotic Empire",
+                "GZ Media",
+                "GZ Media",
+                "Robotic Empire Nirvana Tribute Series"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [],
+            "id": 825971,
+            "barcode": [
+                "655035711614",
+                "130454E1/A",
+                "130454E2/A",
+                "130455O1/A",
+                "130455O2/A"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 825971,
+            "master_url": "https://api.discogs.com/masters/825971",
+            "uri": "/Various-Whatever-Nevermind/master/825971",
+            "catno": "ROBO 116",
+            "title": "Various - Whatever Nevermind",
+            "thumb": "https://img.discogs.com/nQGkkQ6VrNHdF1aWfjPj97fAxv0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6912474-1429372116-3109.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/iyblOErdbBIEnadk_bexZLgHPFI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6912474-1429372116-3109.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/825971",
+            "community": {
+                "want": 401,
+                "have": 987
+            }
+        },
+        {
+            "id": 78635,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/78635-Neptune-Nevermind",
+            "title": "Neptune Nevermind",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/78635"
+        },
+        {
+            "id": 974118,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/974118-Leonid-Nevermind",
+            "title": "Leonid Nevermind",
+            "thumb": "https://img.discogs.com/AJtCnI6OgFaB4I9JohxsZtF2yZg=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-974118-1498826925-2391.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/0wIVYh-hczP6dnktlKfDuBeZRwY=/600x800/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-974118-1498826925-2391.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/artists/974118"
+        },
+        {
+            "id": 7998098,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/7998098-Nevermind-Vermont",
+            "title": "Nevermind Vermont",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/7998098"
+        },
+        {
+            "id": 2082885,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/2082885-Sidney-Nevermind",
+            "title": "Sidney Nevermind",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/2082885"
+        },
+        {
+            "id": 4314449,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/4314449-Nevermind-Crew",
+            "title": "Nevermind Crew",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/4314449"
+        },
+        {
+            "id": 7681242,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/7681242-Neil-Nevermind",
+            "title": "Neil Nevermind",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/artists/7681242"
+        },
+        {
+            "country": "US",
+            "year": "1992",
+            "format": [
+                "CD",
+                "Promo"
+            ],
+            "label": [
+                "DGC",
+                "Sub Pop",
+                "Uni Distribution Corp.",
+                "Uni Distribution Corp.",
+                "The David Geffen Company",
+                "The David Geffen Company",
+                "Specialty Records Corporation"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock",
+                "Non-Music"
+            ],
+            "style": [
+                "Interview",
+                "Grunge",
+                "Alternative Rock"
+            ],
+            "id": 958122,
+            "barcode": [
+                "38 PRO CD 4382-2 SRC*01 M1S2"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 958122,
+            "master_url": "https://api.discogs.com/masters/958122",
+            "uri": "/Nirvana-Nevermind-Its-An-Interview/master/958122",
+            "catno": "PRO-CD-4382",
+            "title": "Nirvana - Nevermind, It's An Interview",
+            "thumb": "https://img.discogs.com/1u9RfAvQecaNsYpWcIiJYf0aICw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2255312-1547372462-2306.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/tCDl3xjbq7qePsktUNxN4Wj__mI=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2255312-1547372462-2306.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/958122",
+            "community": {
+                "want": 201,
+                "have": 222
+            }
+        },
+        {
+            "id": 553142,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/label/553142-Nevermind-Records",
+            "title": "Nevermind Records",
+            "thumb": "https://img.discogs.com/7cC23bZAmrtjzkjCvMoxMW6i5zw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/L-553142-1370590821-7593.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/WFWn2W6WzeRcM5bR5xpuhw250Pc=/fit-in/448x303/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-553142-1370590821-7593.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/labels/553142"
+        },
+        {
+            "id": 1046273,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/label/1046273-Nevermind-Ranch",
+            "title": "Nevermind Ranch",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/30a99166f781e7232ed0608c4d26e11727ed31f3/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/labels/1046273"
+        },
+        {
+            "id": 349302,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/label/349302-Nevermind-Tapes",
+            "title": "Nevermind Tapes",
+            "thumb": "https://img.discogs.com/Fq3jbPCmQJ1VtasYwpwXX7ye-rg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/L-349302-1328537465.png.jpg",
+            "cover_image": "https://img.discogs.com/Wu6V5u6tTcNiF4EnYmMpsnGSz1I=/fit-in/311x238/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-349302-1328537465.png.jpg",
+            "resource_url": "https://api.discogs.com/labels/349302"
+        },
+        {
+            "country": "Italy",
+            "year": "2001",
+            "format": [
+                "Vinyl",
+                "12\""
+            ],
+            "label": [
+                "Activa Records"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Hardstyle"
+            ],
+            "id": 316353,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/Soul-Downloaders-Pablo-B-Nevermind/release/316353",
+            "catno": "ACT021",
+            "title": "Soul Downloaders & Pablo B. - Nevermind",
+            "thumb": "https://img.discogs.com/LxDzjmJ-M0sq9V2bV_MpwjmZi68=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-316353-1469375550-1709.png.jpg",
+            "cover_image": "https://img.discogs.com/b36kmOR4ofrDPmKVpbkChK6HTU4=/fit-in/519x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-316353-1469375550-1709.png.jpg",
+            "resource_url": "https://api.discogs.com/releases/316353",
+            "community": {
+                "want": 27,
+                "have": 31
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "12\""
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Belgium",
+            "year": "2008",
+            "format": [
+                "File",
+                "MP3"
+            ],
+            "label": [
+                "Progrez"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Progressive Trance"
+            ],
+            "id": 1464741,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/Nurettin-Colak-Nevermind/release/1464741",
+            "catno": "PRG-2008-048",
+            "title": "Nurettin Colak - Nevermind",
+            "thumb": "https://img.discogs.com/k9NjriDOuF_4UnuZDvY1Dznv9jA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1464741-1221732267.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/gtw2GUfEYzGkkUbH8p3Ms_eseOQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1464741-1221732267.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/1464741",
+            "community": {
+                "want": 3,
+                "have": 2
+            },
+            "format_quantity": 0,
+            "formats": [
+                {
+                    "name": "File",
+                    "qty": "5",
+                    "text": "320 kbps",
+                    "descriptions": [
+                        "MP3"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Germany",
+            "year": "2011",
+            "format": [
+                "File",
+                "MP3",
+                "EP",
+                "File",
+                "WAV",
+                "EP",
+                "File",
+                "AIFF",
+                "EP"
+            ],
+            "label": [
+                "CLSRM Digital"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "House",
+                "Breaks",
+                "Tech House"
+            ],
+            "id": 2779863,
+            "barcode": [
+                "9008798051212"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/Claas-Reimer-Nevermind/release/2779863",
+            "catno": "CLSRM 001",
+            "title": "Claas Reimer - Nevermind",
+            "thumb": "https://img.discogs.com/E5Ig5ymUesPciltppK_hBjMok_E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2779863-1300692297.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/vk5gJvTidtTt9lwr8udO0p0Hb-4=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2779863-1300692297.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/2779863",
+            "community": {
+                "want": 0,
+                "have": 1
+            },
+            "format_quantity": 0,
+            "formats": [
+                {
+                    "name": "File",
+                    "qty": "3",
+                    "text": "320 kbps",
+                    "descriptions": [
+                        "MP3",
+                        "EP"
+                    ]
+                },
+                {
+                    "name": "File",
+                    "qty": "3",
+                    "descriptions": [
+                        "WAV",
+                        "EP"
+                    ]
+                },
+                {
+                    "name": "File",
+                    "qty": "3",
+                    "descriptions": [
+                        "AIFF",
+                        "EP"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Europe",
+            "year": "1991",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "DGC",
+                "Sub Pop",
+                "Sub Pop Records",
+                "The David Geffen Company",
+                "The David Geffen Company",
+                "BMG",
+                "Sound City Studios",
+                "Sound City Studios",
+                "The Mastering Lab"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 1820636,
+            "barcode": [
+                "7 2064-24425-2 4",
+                "720642442524",
+                "GED24425 / A",
+                "AAD"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 13814,
+            "master_url": "https://api.discogs.com/masters/13814",
+            "uri": "/Nirvana-Nevermind/release/1820636",
+            "catno": "GED 24425",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/3ibXfcfEEicGlATUon8B9DGJ5N0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1820636-1245570851.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/F7b6TcyO5BIsCtnDat6gtZffsBg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1820636-1245570851.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/1820636",
+            "community": {
+                "want": 526,
+                "have": 5026
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Europe",
+            "year": "2011",
+            "format": [
+                "CD",
+                "Album",
+                "Reissue",
+                "CD",
+                "All Media",
+                "Deluxe Edition",
+                "Remastered"
+            ],
+            "label": [
+                "DGC",
+                "Universal Music Group International",
+                "Sub Pop",
+                "Deluxe Edition",
+                "Geffen Records",
+                "Geffen Records",
+                "EDC, Germany",
+                "EDC, Germany"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 3135344,
+            "barcode": [
+                "6 02527 77903 4",
+                "4x Universal logo",
+                "06025 278 036-9 01 ✳ 52795827",
+                "MADE IN GERMANY BY EDC E",
+                "MADE IN GERMANY BY EDC B",
+                "MADE IN GERMANY BY EDC C",
+                "IFPI LV26",
+                "IFPI 0121",
+                "IFPI 0154",
+                "IFPI 0156",
+                "06025 278 037-0 01 ✳ 52795829",
+                "MADE IN GERMANY BY EDC C",
+                "MADE IN GERMANY BY EDC B",
+                "MADE IN GERMANY BY EDC A",
+                "IFPI LV26",
+                "IFPI 0156",
+                "IFPI 0132",
+                "IFPI 0150",
+                "BIEM/SDRM",
+                "0602527803692",
+                "0602527803708"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 13814,
+            "master_url": "https://api.discogs.com/masters/13814",
+            "uri": "/Nirvana-Nevermind/release/3135344",
+            "catno": "0602527779034",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/fUodvppeIaZAzXFHBT9DUVn_rhQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3135344-1345465179-2020.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/wwV2PzOq4jDS0hIM7GEYbLcbB50=/fit-in/600x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3135344-1345465179-2020.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/3135344",
+            "community": {
+                "want": 500,
+                "have": 1021
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album",
+                        "Reissue"
+                    ]
+                },
+                {
+                    "name": "CD",
+                    "qty": "1"
+                },
+                {
+                    "name": "All Media",
+                    "qty": "1",
+                    "descriptions": [
+                        "Deluxe Edition",
+                        "Remastered"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Europe",
+            "year": "2015",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Numbered",
+                "Reissue"
+            ],
+            "label": [
+                "DGC",
+                "Universal Music Group International",
+                "Back To Black"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Alternative Rock",
+                "Grunge"
+            ],
+            "id": 7107634,
+            "barcode": [
+                "0720642442517",
+                "LC 07266",
+                "A33 9124 425 S1 320",
+                "A33 9124 425 S2 320"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 13814,
+            "master_url": "https://api.discogs.com/masters/13814",
+            "uri": "/Nirvana-Nevermind/release/7107634",
+            "catno": "424 425-1",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/KmODHWl1d3RkBTGKNb9_YnPTy-M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7107634-1434304320-4089.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/9Q1Rp9tbY3JC7Qn9yJz0C4VManc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7107634-1434304320-4089.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/7107634",
+            "community": {
+                "want": 620,
+                "have": 786
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "180g",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Numbered",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Europe",
+            "year": "2001",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "DGC",
+                "Universal M & L, Germany"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 7729732,
+            "barcode": [
+                "0 720642 442517",
+                "A33 9124 425 S1 320",
+                "A33 9124 425 S2 320",
+                "BIEM/MCPS",
+                "LC 07266"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 13814,
+            "master_url": "https://api.discogs.com/masters/13814",
+            "uri": "/Nirvana-Nevermind/release/7729732",
+            "catno": "424 425-1",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/KcI5XJVgtRvhfnNr-GeDyZdfrcs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7729732-1447693957-4022.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/LZdMQiLnVhSC8BOMHSWnPgnqtJs=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7729732-1447693957-4022.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/7729732",
+            "community": {
+                "want": 575,
+                "have": 477
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Brown Labels",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Europe",
+            "year": "2014",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Limited Edition",
+                "Reissue",
+                "Unofficial Release"
+            ],
+            "label": [
+                "Geffen Records",
+                "Simply Vinyl",
+                "Geffen Records, Inc.",
+                "Geffen Records, Inc."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 5660726,
+            "barcode": [
+                "SVLP 038   -A-",
+                "SVLP 038   -B-",
+                "6 43346 00381 8",
+                "BIEM/MCPS",
+                "LC 07266"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 13814,
+            "master_url": "https://api.discogs.com/masters/13814",
+            "uri": "/Nirvana-Nevermind/release/5660726",
+            "catno": "SVLP 0038",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/Nvh4Uqu8sPlcSpQl3iMhV4o6z10=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5660726-1457956532-5701.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/tAdr_i2IggyGK1fnxI669dO2OB0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5660726-1457956532-5701.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/5660726",
+            "community": {
+                "want": 567,
+                "have": 382
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Blue",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Limited Edition",
+                        "Reissue",
+                        "Unofficial Release"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "2011",
+            "format": [
+                "CD",
+                "Album",
+                "Reissue",
+                "Remastered"
+            ],
+            "label": [
+                "DGC",
+                "UMe",
+                "Sub Pop",
+                "Deluxe Edition",
+                "Universal Music Distribution",
+                "Geffen Records",
+                "Geffen Records",
+                "Sound City Studios",
+                "Smart Studios",
+                "Scream Studios",
+                "The Music Source",
+                "Laundry Room Studio",
+                "Maida Vale Studios",
+                "Paramount Theatre, Seattle",
+                "Pat O'Brien Pavilion",
+                "Gateway Mastering",
+                "Arvato Digital Services Bertelsmann, USA",
+                "Arvato Digital Services Bertelsmann, USA",
+                "EMI Virgin Songs, Inc.",
+                "The End Of Music",
+                "Primary Wave Tunes",
+                "M.J. Twelve Music",
+                "Warner-Tamerlane Publishing Corp.",
+                "Murky Slough Music",
+                "Irving Music",
+                "Part Music",
+                "John Cale Music, Inc.",
+                "Oakfield Avenue Music Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 3656318,
+            "barcode": [
+                "6 02527 77903 4",
+                "B0015883-02 CD01",
+                "DIDX 768073 arvato digital services BERTELSMANN + 101 + 74329621",
+                "IFPI 1064",
+                "B0015883-02 CD02",
+                "DIDX 769234 arvato digital services BERTELSMANN + + 74332021",
+                "IFPI 10J2",
+                "IFPI L027",
+                "DIDX 768073",
+                "DIDX 769234"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 13814,
+            "master_url": "https://api.discogs.com/masters/13814",
+            "uri": "/Nirvana-Nevermind/release/3656318",
+            "catno": "B0015883-02",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/_qGMy8jxvxtFPKjy4X1bS7XwxfE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3656318-1339111131-2802.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/p8lCCYNARZuVOdTUzjKawjU_Aj8=/fit-in/500x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3656318-1339111131-2802.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/3656318",
+            "community": {
+                "want": 475,
+                "have": 359
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "2",
+                    "descriptions": [
+                        "Album",
+                        "Reissue",
+                        "Remastered"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Brazil",
+            "year": "1992",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Reissue"
+            ],
+            "label": [
+                "DGC",
+                "BMG Ariola Discos Ltda. Divisão Sonopress",
+                "BMG Ariola Discos Ltda. Divisão Sonopress"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 381365,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 13814,
+            "master_url": "https://api.discogs.com/masters/13814",
+            "uri": "/Nirvana-Nevermind/release/381365",
+            "catno": "170.8040",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/PpN-rkKXfVypCuA_BfB0wEZ7SCk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-381365-1105984700.jpg.jpg",
+            "cover_image": "https://img.discogs.com/zn_40rk4lWPvJra-gqIlwxGgv2s=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381365-1105984700.jpg.jpg",
+            "resource_url": "https://api.discogs.com/releases/381365",
+            "community": {
+                "want": 782,
+                "have": 305
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Spain",
+            "year": "1991",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "DGC",
+                "DGC",
+                "The David Geffen Company",
+                "Virgin Songs, Inc.",
+                "BMG Ariola S.A.",
+                "BMG Ariola S.A.",
+                "Iberofon, S.A.",
+                "Indugraf Madrid, S.A."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 4485245,
+            "barcode": [
+                "GEF 24.425 A IN³-DMM.",
+                "GEF 24.425-B IN³-DMM.",
+                "S.G.A.E.",
+                "M-39801-1991"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 13814,
+            "master_url": "https://api.discogs.com/masters/13814",
+            "uri": "/Nirvana-Nevermind/release/4485245",
+            "catno": "5C GEF 24425",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/-mS6c2ugqjROwFnrfHgDlmZ2aa8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4485245-1593469319-9789.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/43WyOykfXjS_bkBlSEXhsbeLHU0=/fit-in/600x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4485245-1593469319-9789.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/4485245",
+            "community": {
+                "want": 866,
+                "have": 240
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Iberofon",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Canada",
+            "year": "1991",
+            "format": [
+                "CD",
+                "Album",
+                "Club Edition"
+            ],
+            "label": [
+                "DGC",
+                "The David Geffen Company",
+                "The David Geffen Company",
+                "Sound City Studios",
+                "Sound City Studios",
+                "The Mastering Lab",
+                "Columbia House",
+                "Cinram"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Grunge"
+            ],
+            "id": 6230417,
+            "barcode": [
+                "7 2064-24425-2 4",
+                "720642442524",
+                "#930302CC CDGCD-24425 MFG BY CINRAM",
+                "AAD"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 13814,
+            "master_url": "https://api.discogs.com/masters/13814",
+            "uri": "/Nirvana-Nevermind/release/6230417",
+            "catno": "CDGCD-24425",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/cJUtkq5dgCkhTysIKkiamqUI2Gw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6230417-1414277142-6139.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/pU2XgNGTDLnwNuxQD2gUpRDQjyA=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6230417-1414277142-6139.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/6230417",
+            "community": {
+                "want": 389,
+                "have": 226
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album",
+                        "Club Edition"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Canada",
+            "year": "1991",
+            "format": [
+                "Cassette",
+                "Album"
+            ],
+            "label": [
+                "DGC",
+                "MCA Records Canada",
+                "MCA Records Canada",
+                "The David Geffen Company",
+                "The David Geffen Company",
+                "Sound City Studios",
+                "Scream Studios",
+                "Masterdisk"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Alternative Rock",
+                "Grunge"
+            ],
+            "id": 1831081,
+            "barcode": [
+                "7 2064-24425-4 8",
+                "H",
+                "Made In Canada"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 13814,
+            "master_url": "https://api.discogs.com/masters/13814",
+            "uri": "/Nirvana-Nevermind/release/1831081",
+            "catno": "DGCC-24425",
+            "title": "Nirvana - Nevermind",
+            "thumb": "https://img.discogs.com/tsXQpp-f6YSphCFSwik6123dxCk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1831081-1590062499-3921.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/oANlupBeYaKU9dYCzds_hiIsrC0=/fit-in/600x948/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831081-1590062499-3921.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/1831081",
+            "community": {
+                "want": 474,
+                "have": 223
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Cassette",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        }
+    ]
+}

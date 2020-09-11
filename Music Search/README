@@ -1,0 +1,8 @@
+This application was developed using the discogs API:
+https://www.discogs.com/developers
+
+The application asks the user for an Artist or Album,
+
+If an Artist is entered, then the whole discography is listed
+
+If an Album is entered, then display general information about the Album
