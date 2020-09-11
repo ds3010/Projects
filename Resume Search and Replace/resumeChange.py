@@ -24,8 +24,20 @@ for i in range(changes):
             search = prev.search(r.text)
             if search != None:
                 counter += 1
-                #print(r.text)
-    print('Amount of times found in paragraphs: ' + str(counter))
+                print('\nThe string has been found here: ' + r.text)
+                print('\nWould you like to replace it?(y/n): ')
+                while True:
+                    userChoice = input()
+                    if userChoice != 'y' and userChoice != 'Y' and userChoice != 'n' and userChoice != 'N':
+                        print('Wrong choice, please type \'y\' or \'n\':')
+                    elif userChoice == 'n' or userChoice == 'N':
+                        break
+                    elif userChoice == 'y' or userChoice == 'Y':
+                        ##### CODE TO REPLACE THE WORD #####
+                        print('\nCode to replace is missing')
+                        ####################################
+                        break
+    print('\nAmount of times found in paragraphs: ' + str(counter))
     
     counter = 0
     for table in doc.tables:
@@ -36,8 +48,20 @@ for i in range(changes):
                         search = prev.search(run.text)
                         if search != None:
                             counter += 1
-                            #print(run.text)
-    print('Amount of times found in tables: ' + str(counter))                        
+                            print('\nThe string has been found here: ' + run.text)
+                            print('\nWould you like to replace it?(y/n): ')
+                            while True:
+                                userChoice = input()
+                                if userChoice != 'y' and userChoice != 'Y' and userChoice != 'n' and userChoice != 'N':
+                                    print('\nWrong choice, please type \'y\' or \'n\':')
+                                elif userChoice == 'n' or userChoice == 'N':
+                                    break
+                                elif userChoice == 'y' or userChoice == 'Y':
+                                    ##### CODE TO REPLACE THE WORD #####
+                                    print('\nCode to replace is missing')
+                                    ####################################
+                                    break
+    print('\nAmount of times found in tables: ' + str(counter))                        
 
 #The following script prints just the text outside tables
 # fullText = []
