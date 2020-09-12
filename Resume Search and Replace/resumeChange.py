@@ -1,8 +1,9 @@
 import re
-import docx
+from docx import Document
 
-doc = docx.Document('Daniel_Seijas_Resume_short.docx')
+doc = Document('Daniel_Seijas_Resume_short.docx')
 
+print('#'*100)
 print('Indicate how many changes do you want to make: ')
 while(True):
     changes = input()
@@ -15,7 +16,8 @@ while(True):
 for i in range(changes):
     
     counter = 0
-    print('\nChange #' + str(i+1) + '- Enter the first string to change: ')
+    print('\n' + ('#'*100))
+    print('Change #' + str(i+1) + '- Enter a string to search and replace: ')
     userInput = input()
     userInput = str(userInput)
     prev = re.compile(r'(%s)'%userInput)
@@ -24,7 +26,8 @@ for i in range(changes):
             search = prev.search(r.text)
             if search != None:
                 counter += 1
-                print('\nThe string has been found here: ' + r.text)
+                print('\n' + ('#'*100))
+                print('\n-->The string has been found here: ' + r.text)
                 print('\nWould you like to replace it?(y/n): ')
                 while True:
                     userChoice = input()
@@ -34,21 +37,26 @@ for i in range(changes):
                         break
                     elif userChoice == 'y' or userChoice == 'Y':
                         ##### CODE TO REPLACE THE WORD #####
-                        print('\nCode to replace is missing')
+                        print('\nType a string of characters to replace it with: ')
+                        userInput = input()
+                        newString = prev.sub(userInput, r.text)
+                        print('\nCOMPLETED! - String has been replaced to: ' + str(newString))
+                        r.text = newString
                         ####################################
                         break
-    print('\nAmount of times found in paragraphs: ' + str(counter))
+    #print('\nAmount of times found in paragraphs: ' + str(counter))
     
     counter = 0
     for table in doc.tables:
         for row in table.rows:
             for cell in row.cells:
                 for paragraph in cell.paragraphs:
-                    for run in paragraph.runs:
-                        search = prev.search(run.text)
+                    for r in paragraph.runs:
+                        search = prev.search(r.text)
                         if search != None:
                             counter += 1
-                            print('\nThe string has been found here: ' + run.text)
+                            print('\n' + ('#'*100))
+                            print('\nThe string has been found here: ' + r.text)
                             print('\nWould you like to replace it?(y/n): ')
                             while True:
                                 userChoice = input()
@@ -58,10 +66,21 @@ for i in range(changes):
                                     break
                                 elif userChoice == 'y' or userChoice == 'Y':
                                     ##### CODE TO REPLACE THE WORD #####
-                                    print('\nCode to replace is missing')
+                                    print('\nType a string of characters to replace it with: ')
+                                    userInput = input()
+                                    newString = prev.sub(userInput, r.text)
+                                    print('\nCOMPLETED! - String has been replaced to: ' + str(newString))
+                                    r.text = newString
                                     ####################################
                                     break
-    print('\nAmount of times found in tables: ' + str(counter))                        
+    #print('\nAmount of times found in tables: ' + str(counter))     
+
+print('\n' + ('#'*100))
+print('\nTime to save your changes: (Type words like "SalesEnginner", "NetworkAdmin"):')
+resType = input()
+doc.save('DanielSeijas_' + str(resType) + '.docx')
+print('\n' + ('#'*100))
+print('CONGRATS!!!!!!' + 'A copy of your resume has been created with the name: DanielSeijas_' + str(resType) + '.docx')                   
 
 #The following script prints just the text outside tables
 # fullText = []
