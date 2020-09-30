@@ -4,7 +4,7 @@ import time
 import sys
 
 def albumSearch(userInput):
-    #THE FIRST TASK IS TO KNOW THE TOTAL NUMBER OF PAGES AND ITEMS FOUND
+    #THE FIRST TASK IS MEANT TO KNOW THE TOTAL NUMBER OF PAGES AND ITEMS FOUND
     initAns = requests.get('https://api.discogs.com/database/search?release_title=' + userInput + '&token=KtehgpFdeuBMDRZZvmFDSZWtJCMpAthaUdUKmLmV')
     initDict = json.loads(initAns.text)
     numPages = initDict['pagination']['pages']
