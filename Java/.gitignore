@@ -1,0 +1,8 @@
+build/
+*.class
+*.data
+.gradle/
+.idea/
+.project
+.settings/
+.vscode/
